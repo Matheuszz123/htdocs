@@ -6,7 +6,7 @@ body{
 nav{
 		padding: 5px 20px;
 		background-color: #DAA520;
-		color: #F8F8FF;
+		color: #FFFF00;
 		margin-left: auto;
 		margin-right: auto;
 		text-align: right;
@@ -58,6 +58,21 @@ a{
 	height: 400px;
 	text-align: center;
 }
+.card{
+	border: solid 5px #B8860B;
+	border-radius: 5px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 3px;
+	padding: 20px;
+	display: inline-block;
+}	
+.card img{
+	max-height: 150px;
+	max-width: 150px;
+	
+	
+}
 #video-youtube{
 	
 	height: 500px;
@@ -68,5 +83,8 @@ a{
 }
 #rodape{
 	height: 400px;
-	background-color: #00779a;
+	background-color: #DAA520;
+}
+
+	
 	
